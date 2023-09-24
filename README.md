@@ -6,6 +6,6 @@ A. Zhakatayev és L. Tlebaldiyeva a cikkükben (Zhakatayev & Tlebaldiyeva, 2020)
 
 Kulcsszavak: elektrodinamika, dipólus antenna
 
-### Bibliography
+### Irodalomjegyzék
 
 Zhakatayev, A., & Tlebaldiyeva, L. (2020). Long-Range Longitudinal Electric Wave in Vacuum Radiated by Electric Dipole: Part I. Radio Science, 55(5), 1-18.
